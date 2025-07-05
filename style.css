@@ -2,8 +2,8 @@
     --cor-fundo: #01080e88 ;
     --cor-principal: #0b0d2059 ;
     --cor-secundaria: #01041a; 
-    --cor-destaque: #d1098e;
-    --cor-texto: #f50cd6b2;
+    --cor-destaque: #c5138a86;
+    --cor-texto: #afa2ad00;
 
 }
 
@@ -97,7 +97,15 @@ p:hover {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    color: #811a5a00;
+    color: #811a5a0
+.center {
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+0;
     background: rgba(207, 19, 151, 0.9);
     box-shadow: 5px 5px 15px rgba(221, 116, 198, 0.7);
     border-radius: 7px;
@@ -135,12 +143,14 @@ footer img {
 }
 
 footer {
+
     display: flex;
     justify-content: center;
 }
 
 footer a {
-    margin: 20px;
+    margi
+n: 20px;
     text-align: center;
     color: rgba(139, 64, 111, 0.034);
 }
